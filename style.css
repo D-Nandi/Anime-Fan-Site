@@ -74,7 +74,7 @@ body {
 }
     .sukuna {
     background-image: url(images/sukuna.jpg);
-    min-height: 500px;
+    min-height: 100%;
 }
 
 .s_text {
@@ -140,7 +140,7 @@ body {
 
 .yuta {
     background-image: url(images/yuta.jpg);
-    min-height: 75%;
+    min-height: 100%;
 }
 
 .y_text {
